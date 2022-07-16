@@ -1,1 +1,1 @@
-# cosmo_game
+# Cosmo game
